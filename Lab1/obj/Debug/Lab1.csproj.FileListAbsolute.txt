@@ -1,0 +1,4 @@
+C:\Archivos FACPYA ESTRATEGIA DIGITAL\Lab1\Lab1\bin\Lab1.dll
+C:\Archivos FACPYA ESTRATEGIA DIGITAL\Lab1\Lab1\bin\Lab1.pdb
+C:\Archivos FACPYA ESTRATEGIA DIGITAL\Lab1\Lab1\obj\Debug\Lab1.dll
+C:\Archivos FACPYA ESTRATEGIA DIGITAL\Lab1\Lab1\obj\Debug\Lab1.pdb
